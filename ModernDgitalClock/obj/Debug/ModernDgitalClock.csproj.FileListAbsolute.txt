@@ -1,0 +1,10 @@
+C:\Users\DEICIDA\source\repos\ModernDgitalClock\bin\Debug\ModernDgitalClock.exe.config
+C:\Users\DEICIDA\source\repos\ModernDgitalClock\bin\Debug\ModernDgitalClock.exe
+C:\Users\DEICIDA\source\repos\ModernDgitalClock\bin\Debug\ModernDgitalClock.pdb
+C:\Users\DEICIDA\source\repos\ModernDgitalClock\obj\Debug\ModernDgitalClock.csproj.AssemblyReference.cache
+C:\Users\DEICIDA\source\repos\ModernDgitalClock\obj\Debug\ModernDgitalClock.Properties.Resources.resources
+C:\Users\DEICIDA\source\repos\ModernDgitalClock\obj\Debug\ModernDgitalClock.csproj.GenerateResource.cache
+C:\Users\DEICIDA\source\repos\ModernDgitalClock\obj\Debug\ModernDgitalClock.csproj.CoreCompileInputs.cache
+C:\Users\DEICIDA\source\repos\ModernDgitalClock\obj\Debug\ModernDgitalClock.exe
+C:\Users\DEICIDA\source\repos\ModernDgitalClock\obj\Debug\ModernDgitalClock.pdb
+C:\Users\DEICIDA\source\repos\ModernDgitalClock\obj\Debug\ModernDgitalClock.DgitalClock.resources
